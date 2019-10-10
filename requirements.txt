@@ -1,0 +1,11 @@
+requests
+pygame
+unicornhathd
+python-dateutil
+pytz
+certifi
+urllib3[secure]
+pyOpenSSL
+cryptography
+idna
+pillow
