@@ -1,4 +1,4 @@
-# SR Defcon Status Board
+# Salesforce Status Board
 Use an LED matrix display to show Salesforce Pod status. 
 
 A HackDay project by C.J. Mihelich & Paulson McIntyre
